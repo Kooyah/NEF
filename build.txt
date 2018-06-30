@@ -1,0 +1,3 @@
+author = Kooyah
+version = 0.1
+displayName = Not Enough Flamethrowers
