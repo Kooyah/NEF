@@ -1,0 +1,7 @@
+author = Kooyah
+version = 0.7
+displayName = [c/59f8d3:Not Enough Flamethrowers]
+homepage = https://forums.terraria.org/index.php?threads/not-enough-flamethrowers.70602/
+hideCode = false
+hideResources = false
+includeSource = true
